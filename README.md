@@ -2,7 +2,7 @@
 ## Predicting Citywide Crowd Dynamics at Big Events: A Deep Learning System
 
 # KDD 2019 Paper
-## DeepUrbanEvent: <br> A System for Predicting Citywide Crowd Dynamics at Big Events
+## DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
 
 ## Outline
 Under the situations of big events, citywide crowd dynamics would manifest some different patterns from the normal routine. In this study, we propose a highly deployable system to extract the trend from momentary changes, and leverage multitask learning to predict crowd density and crowd flows simultaneously.
