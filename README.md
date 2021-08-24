@@ -1,8 +1,6 @@
-# ACM Trans. on Intelligent Systems and Technology (TIST) 2021 Paper
-## Predicting Citywide Crowd Dynamics at Big Events: A Deep Learning System
+## [ACM Trans. on Intelligent Systems and Technology (TIST) 2021 Paper] Predicting Citywide Crowd Dynamics at Big Events: A Deep Learning System
 
-# KDD 2019 Paper
-## DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
+## [KDD 2019 Paper Applied Data Science Track] DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
 
 ## Outline
 Under the situations of big events, citywide crowd dynamics would manifest some different patterns from the normal routine. In this study, we propose a highly deployable system to extract the trend from momentary changes, and leverage multitask learning to predict crowd density and crowd flows simultaneously.
